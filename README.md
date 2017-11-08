@@ -3,7 +3,7 @@
 This repository contains the code written for the practical course "Machine Learning in Medical Imaging" at TU Munich (SS16) covering a variety of machine learning topics:
 
 - Jupyter Notebooks:
-  - [Assignment 2](Exercise%202/Assignment2.pdf): Principal Component Analysis (PCA), K-Means:
+  - [Assignment 2](Exercise%202/Assignment2.pdf): Principal Component Analysis (PCA), K-Means
     - [2.1 PCA](Exercise%202/Exercise%202%20scriptToyData.ipynb)
     - [2.2 Heart disease](Exercise%202/Exercise%202%20heartDataSet.ipynb)
     - [2.3 K-means](Exercise%202/Exercise%202%20scriptToyDataKMeans.ipynb)
